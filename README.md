@@ -1,2 +1,3 @@
 # Test
 fooooooo
+MASTER
